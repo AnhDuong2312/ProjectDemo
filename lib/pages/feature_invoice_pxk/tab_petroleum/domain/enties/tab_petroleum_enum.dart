@@ -1,0 +1,4 @@
+enum TypeCustomer{
+  visitingCustomer,
+  businessCustomer
+}
